@@ -1,6 +1,6 @@
 # TE-Eatz
 
-This repository contains the code for my final project at Tech Elevator. Special shoutout to my teammates Bree, Erica, Michael, and Noah and of course the TE team Yoav, Noble, Lisa, and Shawn.
+This repository contains the code for my final project at Tech Elevator. Special shoutout to my teammates Bree, Erica, Michael, and Noah and of course the TE team of Yoav, Noble, Lisa, and Shawn.
 
 Tech Stack 
   - Java Spring Boot Backend 
